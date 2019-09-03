@@ -1,4 +1,4 @@
-# Bayesian-Personalization-of-a-Tumor-Growth-Model
+# Bayesian Personalization Of A Tumor Growth Model
 
 In this project, we propose implement Lattice Boltzmann Method and Crank Nicholson scheme to simulate the growth of a particlarly infiltrative tumor : grade IV gliomas, also called glioblastomas mutliformes (GBM). This implementation is based on the article "MRI Based Bayesian Personalization of a Tumor Growth Model", from Lê et al. (2016). We use the MNI atlas to apply our growth model to real MRI (http://www.bic.mni.mcgill.ca/ServicesAtlases/ICBM152NLin2009). The equation under scrutiny is the so called FKPP (Fisher, Kolmogorov, Petrovsky, Piscounov).
 
